@@ -1,0 +1,26 @@
+{
+  "name": "barebonefe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "android": "rn-wix-engine -p engineConfig.json -a",
+    "ios": "rn-wix-engine -p engineConfig.json -i"
+  },
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^3.0.1",
+    "@types/react-native": "^0.66.15",
+    "@ywongweb/barebone": "0.0.4",
+    "eslint": "7.32.0",
+    "patch-package": "6.4.7",
+    "postinstall-postinstall": "2.1.0",
+    "prettier": "^2.5.1",
+    "react": "17.0.2",
+    "react-native": "0.67.4"
+  },
+  "peerDependencies": {
+    "@ywongweb/barebone": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
