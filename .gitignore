@@ -24,4 +24,4 @@ amplifytools.xcconfig
 #amplify-do-not-edit-end
 bundle_output
 metro.config.js
-.n
+.npnrc
